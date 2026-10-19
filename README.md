@@ -4,44 +4,15 @@ This repository contains the source for the Boba Bash website.
 
 ## About
 
-A website for the "Boba Bash" project. This README was added as a starting point — please update the sections below with project-specific details, features, and requirements.
+A website for the "Boba Bash" event going to happen in delhi. This README contains images for preview and gifs for hero section.
 
-## Status
+##the images for preview are here--
+<img width="338" height="480" alt="hexarover" src="https://github.com/user-attachments/assets/16d6369c-3b79-4525-ac0f-ffbef9378750" />
+<img width="338" height="480" alt="cloudie" src="https://github.com/user-attachments/assets/bb7bfa91-114e-49f7-8277-242ad4cabfa7" />
+<img width="848" height="1103" alt="robot" src="https://github.com/user-attachments/assets/51705e01-942d-4f98-bc9c-72d60f7b2e8e" />
+<img width="720" height="405" alt="portfolio-hero" src="https://github.com/user-attachments/assets/b7429709-ce2e-4f2a-b895-c6a51b833b7c" />
+<img width="479" height="609" alt="harshit-pandey" src="https://github.com/user-attachments/assets/88617ce2-cc55-4420-992e-82dd1a886fba" />
 
-- Initial README added.
-
-## Prerequisites
-
-- Node.js (recommended v16+)
-- npm or yarn
-
-> If this project uses a different toolchain (Hugo, Jekyll, Python, etc.), replace the steps below with the correct commands.
-
-## Setup (common Node.js workflow)
-
-1. Install dependencies
-
-```bash
-npm install
-# or
-# yarn
-```
-
-2. Run locally
-
-```bash
-npm run dev
-# or
-# npm start
-```
-
-3. Build for production
-
-```bash
-npm run build
-# or
-# yarn build
-```
 
 ## Contributing
 
@@ -52,15 +23,3 @@ Contributions are welcome. Typical workflow:
 3. Commit your changes
 4. Open a pull request describing your changes
 
-Please add tests and update documentation where appropriate.
-
-## License
-
-Please add a LICENSE file to this repository or update this section with the project's license.
-
----
-
-If you'd like, I can:
-- Tailor this README to the actual tech stack if you tell me what it uses (React, Svelte, Hugo, plain HTML, etc.),
-- Add CI / deployment instructions for GitHub Pages, Vercel, or Netlify,
-- Create a LICENSE file or a CONTRIBUTING.md template.
